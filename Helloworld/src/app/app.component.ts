@@ -13,7 +13,7 @@ export class AppComponent {
   url = "https://www.bridgelabz.com";
 
   ngOnInit(): void {
-    this.title = "Hello from BridgeLabz.";
+    this.title = "Hello from BridgeLabz";
   }
 
   onClick($event : MouseEvent)
